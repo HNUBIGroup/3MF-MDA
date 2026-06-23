@@ -26,4 +26,4 @@ Below are the main libraries and their versions required to run this project. Pl
 - `training.py`: Main script to train and evaluate the model.
 - `utils.py`: Utility functions used across the project.
 - `data/`: Directory for storing all raw and processed data files.
-- `Predataprocess/`: Scripts and data related to initial feature processing steps.
+- `PREDATAPROCESS/`: Scripts and data related to initial feature processing steps.
